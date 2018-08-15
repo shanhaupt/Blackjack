@@ -1,0 +1,5 @@
+Shan Haupt, 5847659529, shaupt@usc.edu, 20173_csci_201_30303: Principles of Software Development
+Project Stops working after all players bet for the first time, run with classes mentioned below
+Anything hardcoded is logical (i.e. will ALWAYS be mathematically correct) -> scores with aces
+server.GameRoom runs an instance of the server
+client.PlayerThread creates a client instance
